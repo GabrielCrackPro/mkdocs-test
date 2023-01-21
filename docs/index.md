@@ -39,3 +39,23 @@ const tecnologias = ["HTML, CSS, JavaScript", "Java", "Python", "Django"]
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Este obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">licencia de Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional</a>
+
+## Audio 
+
+<audio controls>
+  <source src="https://cdn.freesound.org/previews/36/36984_370887-lq.mp3" type="audio/mp3">
+  Tu navegador no soporta audio
+</audio>
+
+## Video
+
+### Youtube
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-xDZwb-PY0M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### Local
+
+<video width="560" height="315" controls>
+  <source src="./video/video.mp4" type="video/mp4">
+  Tu navegador no soporta video
+</video>
